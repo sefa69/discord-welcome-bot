@@ -1,14 +1,13 @@
 {
     "DEFAULTS": {
-        "AUTHORS": [],
-        "ACTIVITY_TEXT": "Polemikal Voice System",
-        "GUILD_ID": "",
-        "VOICE_CHANNEL": "",
-        "MIN_STAFF_ROLE": ""
+        "AUTHORS": [828994952011710475],
+        "ACTIVITY_TEXT": "Sunucumuza Hoşgeldiniz Tag Alarak Ailemize Katılabilirsin^^",
+        "GUILD_ID": "829106004263567402",
+        "VOICE_CHANNEL": "829270461820174366",
+        "MIN_STAFF_ROLE": "837658984093581363"
     },
     "FILES": {
         "WELCOME": "default_files/<welcome-voice>.mp3",
         "STAFF": "default_files/<staff-voice>.mp3"
-    },
-    "TOKEN": "BOT_TOKEN"
+    }
 }
